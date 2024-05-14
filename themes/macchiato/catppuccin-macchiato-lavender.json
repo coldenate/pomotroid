@@ -1,0 +1,15 @@
+{
+    "name": "Catppuccin Macchiato (Lavender)",
+    "colors": {
+        "--color-long-round": "#8aadf4",
+        "--color-short-round": "#8bd5ca",
+        "--color-focus-round": "#ed8796",
+        "--color-background": "#24273a",
+        "--color-background-light": "#1e2030",
+        "--color-background-lightest": "#cad3f5",
+        "--color-foreground": "#cad3f5",
+        "--color-foreground-darker": "#a5adcb",
+        "--color-foreground-darkest": "#b8c0e0",
+        "--color-accent": "#b7bdf8"
+    }
+}
