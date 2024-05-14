@@ -12,49 +12,38 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/pomotroid/main/assets/catwalk.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/pomotroid/main/assets/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/pomotroid/main/assets/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/pomotroid/main/assets/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/pomotroid/main/assets/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
-## Installation
+## Usage
 
-1. Clone the repo and `cd` into it.
-2. Install the dependencies with `python3 -m pip install -r requirements.txt` (`or python` if you're on Windows)
-3. Run `python3 install.py` to install the theme
-4. Reload or restart Pomotroid (⌘/`ctrl` + `R`)
-
-### Usage
-
-1. Click on the settings icon (=)
-2. Click on the pastel icon (🎨)
-3. Scroll down to the bottom and select the theme you want
-
-## 🙋 FAQ
-
--   Q: **_"I can't see it change?"_**\
-    A: Restart Pomotroid with `⌘/ctrl + R`
+1. Copy/move your flavor and accent combination of choice from [`themes/`](./themes/) to your Pomotroid themes configuration directory, the location of which can be found in [Pomotroid's theme documentation](https://github.com/Splode/pomotroid/blob/master/docs/themes/themes.md#creating-a-custom-theme).
+2. Open Pomotroid and click on the settings icon (=) followed by the pastel icon (🎨).
+3. Scroll down to the bottom and select your theme.
+4. Restart Pomotroid with <kbd>⌘</kbd>+<kbd>R</kbd> on macOS or <kbd>Ctrl</kbd>+<kbd>R</kbd> everywhere else.
 
 ## 💝 Thanks to
 
--   [coldenate](https://github.com/coldenate)
+- [coldenate](https://github.com/coldenate)
 
 &nbsp;
 
