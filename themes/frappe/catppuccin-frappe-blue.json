@@ -1,0 +1,15 @@
+{
+    "name": "Catppuccin Frappé (Blue)",
+    "colors": {
+        "--color-long-round": "#8caaee",
+        "--color-short-round": "#81c8be",
+        "--color-focus-round": "#e78284",
+        "--color-background": "#303446",
+        "--color-background-light": "#292c3c",
+        "--color-background-lightest": "#c6d0f5",
+        "--color-foreground": "#c6d0f5",
+        "--color-foreground-darker": "#a5adce",
+        "--color-foreground-darkest": "#b5bfe2",
+        "--color-accent": "#8caaee"
+    }
+}

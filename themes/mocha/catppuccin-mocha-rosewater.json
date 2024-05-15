@@ -1,0 +1,15 @@
+{
+    "name": "Catppuccin Mocha (Rosewater)",
+    "colors": {
+        "--color-long-round": "#89b4fa",
+        "--color-short-round": "#94e2d5",
+        "--color-focus-round": "#f38ba8",
+        "--color-background": "#1e1e2e",
+        "--color-background-light": "#181825",
+        "--color-background-lightest": "#cdd6f4",
+        "--color-foreground": "#cdd6f4",
+        "--color-foreground-darker": "#a6adc8",
+        "--color-foreground-darkest": "#bac2de",
+        "--color-accent": "#f5e0dc"
+    }
+}
